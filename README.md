@@ -3,4 +3,5 @@
 # I got to integrate the relevant weather endpoints to the simple ui.
 # I also used the Dexter Library for the permissions.
 # For the network call to the remote server ,i used retrofit.
+# Used viewBinding for accessing views in the layouts.
 
